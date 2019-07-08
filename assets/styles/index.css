@@ -3,7 +3,7 @@
  	/*background: #F2978A;*/
  	/*background: #FAF1F0;*/
  	/*background: #4678C9;*/
- 	background: #054274;
+ 	background: #F2978A;
  }
 
  #main {
@@ -21,9 +21,14 @@
  	font-weight: bold;
  	text-shadow: 0 0 3px rgb(195, 189, 189);
  }
-
- #title {
+ #title1 {
  	color:#FDFDFD;
+ 	/*color:#342F2F;*/
+ 	font-size: 25px;
+ 	font-weight: bold;
+ }
+ #title {
+ 	color:#F2978A;
  	/*color:#342F2F;*/
  	font-size: 25px;
  	font-weight: bold;
@@ -34,21 +39,18 @@
  	align-items: center;*/
  	margin-left: 50px;
  	margin-right: 50px;
- 	margin-bottom: 40px;
- 	margin-top: 40px;
+ 	margin-bottom: 20px;
+ 	margin-top: 20px;
  	/*background: #FAF1F0;*/
- 	background: #E5F4F8;
+ 	background: #FAF1F0;
  	/*color:#F2978A;*/
  	/*color:#342F2F;*/
  	/*color: #054274;*/
- 	color: #4678C9;
+ 	color: #F2C3BD;
  	font-size: 20px;
  	/*box-shadow: 0 0 10px 0 rgb(195, 189, 189);*/
  	/*border-radius: 5%;*/
- 	/*flex-grow: 1;
- 	flex-shrink: 1;
- 	flex-basis:200px;
- 	height: 300px;*/
+ 	
 }
 
 
@@ -56,23 +58,23 @@
 	display:flex;
  	flex-direction: row;
  	align-items: center;
- 	margin-left: 50px;
- 	margin-right: 50px;
- 	margin-bottom: 40px;
- 	margin-top: 40px;
+ 	margin-left: 40px;
+ 	margin-right: 40px;
+ 	margin-bottom: 20px;
+ 	margin-top: 20px;
  	/*background: #FAF1F0;*/
- 	background: #E5F4F8;
+ 	background: #FAF1F0;
  	/*color:#F2978A;*/
  	/*color:#342F2F;*/
  	/*color: #054274;*/
- 	color: #4678C9;
+ 	color: #F2C3BD;
  	font-size: 20px;
  	/*box-shadow: 0 0 10px 0 rgb(195, 189, 189);*/
  	/*border-radius: 5%;*/
  	flex-grow: 1;
  	flex-shrink: 1;
- 	flex-basis:200px;
- 	height: 300px;
+ 	flex-basis:380px;
+ 	height: 200px;
 }
 .list {
 	display:flex;
@@ -84,14 +86,15 @@
 }
 .content
  {
-	padding:40px 40px 40px 40px;
+	padding:20px 40px 20px 40px;
+	color:#F2C3BD;
 
 }
 
 .subtitle {
 	/*color:#F2978A;*/
 	/*color: #4678C9;*/
-	color: #054274;
+	color: #F2978A;
  	font-size: 25px;
  	font-weight: bold;
  	/*text-shadow: 1px 1px 1px rgb(195, 189, 189);*/
@@ -99,12 +102,12 @@
 
 a:visited {
 	/*color:#F2978A;*/
-	color: #4678C9;
+	color: #F2C3BD;
 	text-decoration: none;
 }
 a:link {
 	/*color:#F2978A;*/
-	color: #4678C9;
+	color: #F2C3BD;
 	text-decoration: none;
 }
 a:-webkit-any-link{
