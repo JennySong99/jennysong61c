@@ -4,7 +4,8 @@
  	/*background: #FAF1F0;*/
  	/*background: #4678C9;*/
  	/*background: #F2978A;*/
- 	background: DarkSlateGray;
+	 /* background: DarkSlateGray; */
+	 background:floralwhite;
  }
 
  #main {
@@ -16,14 +17,16 @@
  }
 
  #name {
- 	color:#FDFDFD;
+	 /* color:#FDFDFD; */
+	 color:black;
  	/*color:#342F2F;*/
  	font-size: 40px;
  	font-weight: bold;
  	text-shadow: 0 0 3px rgb(195, 189, 189);
  }
  #title1 {
- 	color:#FDFDFD;
+	 /* color:#FDFDFD; */
+	 color:black;
  	/*color:#342F2F;*/
  	font-size: 25px;
  	font-weight: bold;
@@ -31,7 +34,8 @@
  #title {
  	/*color:#F2978A;*/
  	/*color:#342F2F;*/
- 	color:DarkSlateGray;
+	 /* color:DarkSlateGray; */
+	color:black;
  	font-size: 25px;
  	font-weight: bold;
  }
@@ -45,7 +49,8 @@
  	margin-top: 20px;
  	/*background: #FAF1F0;*/
  	/*background-color:#20B2AA;*/
- 	background-color:LightSeaGreen;
+	 /* background-color:LightSeaGreen; */
+	 background-color: black;
  	/*color:#F2978A;*/
  	/*color:#342F2F;*/
  	/*color: #054274;*/
@@ -67,7 +72,8 @@
  	margin-bottom: 20px;
  	margin-top: 20px;
  	/*background: #FAF1F0;*/
- 	background-color:LightSeaGreen;
+	 /* background-color:LightSeaGreen; */
+	 background-color: floralwhite;
  	/*color:#F2978A;*/
  	/*color:#342F2F;*/
  	/*color: #054274;*/
@@ -94,7 +100,8 @@
  {
 	padding:20px 40px 20px 40px;
 	/*color:#F2C3BD;*/
-	background-color: LightSeaGrey;
+	/* background-color: LightSeaGrey; */
+	background-color: floralwhite;
 	color:DarkSlateGray;
 
 }
@@ -103,7 +110,8 @@
 	/*color:#F2978A;*/
 	/*color: #4678C9;*/
 	/*color: #F2978A;*/
-	color:DarkSeaGrey;
+	/* color:DarkSeaGrey; */
+	color:black;
  	font-size: 25px;
  	font-weight: bold;
  	/*text-shadow: 1px 1px 1px rgb(195, 189, 189);*/
